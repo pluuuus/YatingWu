@@ -1,13 +1,10 @@
-## 5 in 5
-
-You can use the [editor on GitHub](https://github.com/pluuuus/YatingWu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### DAY 1
 
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/2800/8aa9f469016929.5ba1e1888ddca.jpg)
 
 The first project is a special map of my community. Though seems like a metro map, it is actually  a map which illustrated the routes of different kinds of cars and different people. The starting point of making this project is that one day I noticed all kinds of vehicles have a relatively fixed route here because of the regulation of the community. For instance, motor vehicles are only allowed to drive in the 4 arch loop roads, which is the outermost part of the ‘traffic system’ of community, while the cleaner cars only clean the on those main roads which diverging from the middle area. For people walking in the community, those routes are more random and unpredictable, but there are also some common rules for it. The rule of dogs not allowing to go to the center OVAL part and the location of the sunbath area form the routes of dog-walking and sunbath. 
+
+![Image](https://mir-cdn.behance.net/v1/rendition/project_modules/fs/e3032769016929.5ba1e1888e312.png)
 
 All of those regulations make up a fun system which is a little bit similar to a real traffic system. Every train has a fixed path in metro system, and they also meets and separate in some specific stations. Then I decided to turn my little observation into a real ‘metro map’. After doing some research on New York Metro especially about the icon system, color and typography, I found it would be fun to make my community map just look like the NY Metro system visually. And here is my final work in illustration. The ‘trains’ are always under construction, so I may add more trains after finding interesting routes. ( I still have no idea how to define this project, compared with illustration or info-graphic it is more like representing some little observations for me.)
 
@@ -30,7 +27,7 @@ Been attracted by those fun creative graffitis, I determined to combine my proje
  
  
  
- ### DAY 4
+### DAY 4
  
  
 Receive my package from Amazon, I am be able to use LEGO bricks and some new sensor/module to do the project today. I start thinking about make a container to store my coins(I always got many coins as change after shopping, and the small ones are really hard to use in most cases). I used LEGO bricks to make a simple saving-pot and add some more function to it through arduino. A pressure sensor have been placed in the bottom of the saving-pot and a LED light is on the top of it. Once the saving-pot collected enough coins the light will be lighten. 
@@ -43,7 +40,7 @@ Receive my package from Amazon, I am be able to use LEGO bricks and some new sen
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://wuyatingdesign.wixsite.com/mysite/about-me) and ![Image](src)
+[Link](https://wuyatingdesign.wixsite.com/mysite/about-me)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
