@@ -20,6 +20,21 @@ After finished the last project, I realized that there are so many fun things I 
 
 It is really fun to find that there is a special ‘voice identity’ for every single places. Those subtle differences make a place special. As the execution part, I originally planned to make the identity for those places, but the technical problem about voice visualization make it hard to finish in one day. As a result, I just choose to use the processing to draw some sound waves to show the different voice identity of places. Two typical places( fountain and trees) are chosen to make the project. I used different lightness and scale of the waves to show the difference between different places. Though I am not be able to make a real voice identity in the best way, I am still really interest in the possibility of it. I was wondering if it possible to make a treasure hunt game which use the voice as a hint for the player to find the specific place. I wish I will have appropriate time to try in in next few days or in the future.
 
+
+
+### DAY 3
+
+At day 3, I continued my exploration in my community. When I walked around the fountain, some graffitis on the ground grabbed my attention immediately. Those graffiti are not very delicate or fancy, they have just been draw on the ground by chalks casually. Some of them are figure painting and others are rather abstract. One common point about all these graffitis is that they are obviously drew by children. Most of them are really creative and some of them are even practical (there are a mock racing track which consisted of a starting line, finishing line and cheer up words on the ground).
+
+Been attracted by those fun creative graffitis, I determined to combine my project with them. They just demonstrated the saying of Picasso which was ‘All children are born artist, the problem is to remain an artist as we grow up.’ So it would be a fun idea for me to treat those graffitis just like real art work in galleries and give them a sense of ritual. Then I used some simple material I have to make frames for these masterpieces and write the labels which makes them more like a real painting work. I even added a simple transparent film to the frame which would be placed closed to the fountain. After finishing the making part, I just put the frames and labels in the proper place and waited for people to appreciate the ‘ground gallery ’. It is great that there are many people really appreciated those graffitis and read those labels. The responses of audience make up the whole project.
+ 
+ 
+ 
+ ### DAY 4
+ 
+ 
+Receive my package from Amazon, I am be able to use LEGO bricks and some new sensor/module to do the project today. I start thinking about make a container to store my coins(I always got many coins as change after shopping, and the small ones are really hard to use in most cases). I used LEGO bricks to make a simple saving-pot and add some more function to it through arduino. A pressure sensor have been placed in the bottom of the saving-pot and a LED light is on the top of it. Once the saving-pot collected enough coins the light will be lighten. 
+
 - Bulleted
 - List
 
@@ -28,8 +43,8 @@ It is really fun to find that there is a special ‘voice identity’ for every 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+[Link](https://wuyatingdesign.wixsite.com/mysite/about-me) and ![Image](src)
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
